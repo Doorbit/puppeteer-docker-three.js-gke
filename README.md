@@ -16,9 +16,9 @@ node test.js
 ```
 
 This will goto [this](https://threejs.org/examples/#webgl_animation_skinning_blending) Three.js example, wait 2 seconds to load the canvas and then take a 
-screenshot `my_screenshot.png` and store it in the current directory: 
+screenshot `my_screenshot.png` and store it in the current directory.
 
-![Screenshot Output](my_screenshot.png)
+![Screenshot Output](example.png)
 
 ### Docker
 

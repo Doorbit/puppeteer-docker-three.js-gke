@@ -14,6 +14,6 @@ WORKDIR /app
 
 RUN npm install puppeteer
 
-COPY . /app
+COPY test.js /app
 
 CMD ["node", "test.js"]
